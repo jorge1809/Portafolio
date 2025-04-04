@@ -1,7 +1,0 @@
-cd "C:\Users\jorge\Desktop\Proyectos\sitio web portafolio"
-git init
-git remote add origin https://github.com/JorgeArevalo/portafolio.git
-git add .
-git commit -m "Subiendo mi página web"
-git branch -M main
-git push -u origin main 
